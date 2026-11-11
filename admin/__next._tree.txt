@@ -1,0 +1,5 @@
+:HL["/atisan-mall/_next/static/chunks/314mhz7h-q6i8.css","style"]
+:HL["/atisan-mall/_next/static/media/vazirmatn-s.p.3knf6dhh8xxk6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
+0:{"b":"m4ifn7IOZQ2eQR4KtCqHq","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
